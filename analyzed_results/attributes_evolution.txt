@@ -1,0 +1,285 @@
+ATT 2
+Number of Patterns : 1000
+Execution time size 1 pattern: 150s
+96.03% of extensions found (9603 elements)
+53.34% of extensions found (5334 elements)
+43.25% of extensions found (4325 elements)
+18.69% of extensions found (1869 elements)
+35.09% of extensions found (3509 elements)
+40.52% of extensions found (4052 elements)
+18.38% of extensions found (1838 elements)
+13.3% of extensions found (1330 elements)
+21.17% of extensions found (2117 elements)
+95.1% of extensions found (9510 elements)
+55.92% of extensions found (5592 elements)
+24.68% of extensions found (2468 elements)
+28.08% of extensions found (2808 elements)
+40.1% of extensions found (4010 elements)
+14.85% of extensions found (1485 elements)
+12.44% of extensions found (1244 elements)
+21.67% of extensions found (2167 elements)
+95.92% of extensions found (9592 elements)
+41.14% of extensions found (4114 elements)
+31.04% of extensions found (3104 elements)
+34.95% of extensions found (3495 elements)
+23.16% of extensions found (2316 elements)
+25.63% of extensions found (2563 elements)
+32.58% of extensions found (3258 elements)
+91.23% of extensions found (9123 elements)
+45.98% of extensions found (4598 elements)
+23.45% of extensions found (2345 elements)
+25.47% of extensions found (2547 elements)
+11.49% of extensions found (1149 elements)
+19.34% of extensions found (1934 elements)
+95.92% of extensions found (9592 elements)
+53.42% of extensions found (5342 elements)
+22.47% of extensions found (2247 elements)
+24.96% of extensions found (2496 elements)
+17.75% of extensions found (1775 elements)
+97.26% of extensions found (9726 elements)
+42.88% of extensions found (4288 elements)
+37.24% of extensions found (3724 elements)
+20.67% of extensions found (2067 elements)
+94.03% of extensions found (9403 elements)
+39.57% of extensions found (3957 elements)
+22.62% of extensions found (2262 elements)
+91.53% of extensions found (9153 elements)
+29.09% of extensions found (2909 elements)
+90.51% of extensions found (9051 elements)
+Execution time extension : 32s
+Execution time : 182s
+
+ATT 4
+Number of Patterns : 1000
+Execution time size 1 pattern: 232s
+10.16% of extensions found (1016 elements)
+0.6% of extensions found (60 elements)
+5.35% of extensions found (321 elements)
+13.19% of extensions found (1319 elements)
+12.83% of extensions found (1283 elements)
+6.88% of extensions found (688 elements)
+7.38% of extensions found (738 elements)
+10.34% of extensions found (1034 elements)
+0.92% of extensions found (92 elements)
+6.61% of extensions found (661 elements)
+5.07% of extensions found (507 elements)
+3.51% of extensions found (351 elements)
+32.97% of extensions found (3297 elements)
+8.67% of extensions found (867 elements)
+11.71% of extensions found (1171 elements)
+4.9% of extensions found (490 elements)
+14.84% of extensions found (1484 elements)
+13.98% of extensions found (1398 elements)
+3.59% of extensions found (359 elements)
+8.83% of extensions found (883 elements)
+8.75% of extensions found (875 elements)
+14.94% of extensions found (1494 elements)
+5.14% of extensions found (514 elements)
+14.91% of extensions found (1491 elements)
+8.57% of extensions found (857 elements)
+18.37% of extensions found (1837 elements)
+8.25% of extensions found (825 elements)
+12.4% of extensions found (1240 elements)
+5.1% of extensions found (510 elements)
+13.94% of extensions found (1394 elements)
+18.39% of extensions found (1839 elements)
+6.64% of extensions found (664 elements)
+12.4% of extensions found (1240 elements)
+6.99% of extensions found (699 elements)
+2.25% of extensions found (225 elements)
+14.65% of extensions found (1465 elements)
+8.11% of extensions found (811 elements)
+6.74% of extensions found (674 elements)
+20.34% of extensions found (2034 elements)
+9.32% of extensions found (932 elements)
+10.22% of extensions found (1022 elements)
+2.92% of extensions found (292 elements)
+11.59% of extensions found (1159 elements)
+6.64% of extensions found (664 elements)
+10.86% of extensions found (1086 elements)
+Execution time extension : 9s
+Execution time : 241s
+
+ATT 6
+Number of Patterns : 1000
+Execution time size 1 pattern: 322s
+4.94% of extensions found (494 elements)
+1.27% of extensions found (127 elements)
+1.06% of extensions found (106 elements)
+8.66% of extensions found (866 elements)
+3.17% of extensions found (317 elements)
+2.02% of extensions found (202 elements)
+5.92% of extensions found (592 elements)
+10.04% of extensions found (1004 elements)
+0.16% of extensions found (16 elements)
+3.75% of extensions found (375 elements)
+2.02% of extensions found (202 elements)
+7.99% of extensions found (799 elements)
+2.61% of extensions found (261 elements)
+2.19% of extensions found (219 elements)
+6.24% of extensions found (624 elements)
+10.28% of extensions found (1028 elements)
+0.24% of extensions found (24 elements)
+1.53% of extensions found (153 elements)
+8.63% of extensions found (863 elements)
+2.12% of extensions found (212 elements)
+1.94% of extensions found (194 elements)
+6.4% of extensions found (640 elements)
+10.1% of extensions found (1010 elements)
+0.2% of extensions found (20 elements)
+1.71% of extensions found (171 elements)
+3.29% of extensions found (329 elements)
+0.6% of extensions found (60 elements)
+34.5% of extensions found (2070 elements)
+2.9% of extensions found (290 elements)
+0% of extensions found (0 elements)
+10.44% of extensions found (1044 elements)
+2.04% of extensions found (204 elements)
+8.42% of extensions found (842 elements)
+5.56% of extensions found (556 elements)
+0.12% of extensions found (12 elements)
+2.84% of extensions found (284 elements)
+8.09% of extensions found (809 elements)
+3.1% of extensions found (310 elements)
+2.96% of extensions found (296 elements)
+4.58% of extensions found (458 elements)
+3.22% of extensions found (322 elements)
+0% of extensions found (0 elements)
+3.45% of extensions found (345 elements)
+0.52% of extensions found (52 elements)
+4.84% of extensions found (484 elements)
+Execution time extension : 7s
+Execution time : 330s
+
+ATT 8
+Number of Patterns : 1000
+Execution time size 1 pattern: 409s
+2.94% of extensions found (294 elements)
+5.2% of extensions found (520 elements)
+0% of extensions found (0 elements)
+1.96% of extensions found (196 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+4.17% of extensions found (417 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0.44% of extensions found (44 elements)
+2.59091% of extensions found (114 elements)
+0% of extensions found (0 elements)
+0.7% of extensions found (70 elements)
+0% of extensions found (0 elements)
+17% of extensions found (1700 elements)
+Execution time extension : 2s
+Execution time : 412s
+
+ATT 10
+Number of Patterns : 1000
+Execution time size 1 pattern: 478s
+0% of extensions found (0 elements)
+31% of extensions found (3100 elements)
+9% of extensions found (900 elements)
+100% of extensions found (10000 elements)
+0% of extensions found (0 elements)
+9% of extensions found (900 elements)
+100% of extensions found (10000 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+4% of extensions found (400 elements)
+14% of extensions found (1400 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 10s
+Execution time : 488s
+
+ATT 12
+Number of Patterns : 1000
+Execution time size 1 pattern: 560s
+0.68% of extensions found (68 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+44.32% of extensions found (4432 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 2s
+Execution time : 563s
+
+ATT 14
+Number of Patterns : 1000
+Execution time size 1 pattern: 676s
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 2s
+Execution time : 679s
+
+ATT 16
+Number of Patterns : 1000
+Execution time size 1 pattern: 740s
+100% of extensions found (10000 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+6% of extensions found (600 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+22.05% of extensions found (2205 elements)
+0% of extensions found (0 elements)
+17.71% of extensions found (1771 elements)
+41.76% of extensions found (4176 elements)
+0% of extensions found (0 elements)
+62.78% of extensions found (6278 elements)
+0% of extensions found (0 elements)
+3.9% of extensions found (390 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 10s
+Execution time : 751s
+
+ATT 18
+Number of Patterns : 1000
+Execution time size 1 pattern: 822s
+100% of extensions found (10000 elements)
+100% of extensions found (10000 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 9s
+Execution time : 831s
+
+ATT 20
+Number of Patterns : 1000
+Execution time size 1 pattern: 913s
+0% of extensions found (0 elements)
+76% of extensions found (7600 elements)
+12% of extensions found (1200 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+100% of extensions found (10000 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0.62% of extensions found (62 elements)
+Execution time extension : 9s
+Execution time : 923s

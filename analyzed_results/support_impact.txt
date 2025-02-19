@@ -1,0 +1,1045 @@
+SYNTHETIC 6 att 7 SUPP
+Execution time size 1 pattern: 407s
+There is 0 patterns respecting support constraint in time number 0.
+There is 6 patterns respecting support constraint in time number 1.
+There is 86 patterns respecting support constraint in time number 2.
+There is 12 patterns respecting support constraint in time number 3.
+There is 48 patterns respecting support constraint in time number 4.
+There is 56 patterns respecting support constraint in time number 5.
+There is 98 patterns respecting support constraint in time number 6.
+There is 12 patterns respecting support constraint in time number 7.
+There is 108 patterns respecting support constraint in time number 8.
+There is 0 patterns respecting support constraint in time number 9.
+Total : 426 patterns respecting support constraint.
+Mean supp 8.10329
+-nan% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+14.2857% of extensions found (384 elements)
+0% of extensions found (0 elements)
+10.4956% of extensions found (576 elements)
+0% of extensions found (0 elements)
+12.2449% of extensions found (144 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+Execution time extension : 1s
+Execution time : 408s
+
+SYNTHETIC 6 att 6 SUPP
+Execution time size 1 pattern: 393s
+There is 120 patterns respecting support constraint in time number 0.
+There is 102 patterns respecting support constraint in time number 1.
+There is 282 patterns respecting support constraint in time number 2.
+There is 56 patterns respecting support constraint in time number 3.
+There is 72 patterns respecting support constraint in time number 4.
+There is 56 patterns respecting support constraint in time number 5.
+There is 132 patterns respecting support constraint in time number 6.
+There is 12 patterns respecting support constraint in time number 7.
+There is 184 patterns respecting support constraint in time number 8.
+There is 120 patterns respecting support constraint in time number 9.
+Total : 1136 patterns respecting support constraint.
+Mean supp 6.78873
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+11.9048% of extensions found (480 elements)
+0% of extensions found (0 elements)
+7.79221% of extensions found (576 elements)
+0% of extensions found (0 elements)
+18.1818% of extensions found (288 elements)
+2.17391% of extensions found (1152 elements)
+50% of extensions found (69120 elements)
+2.17391% of extensions found (48 elements)
+50% of extensions found (2880 elements)
+0% of extensions found (0 elements)
+Execution time extension : 5s
+Execution time : 399s
+
+SYNTHETIC 6 att 5 SUPP
+Execution time size 1 pattern: 391s
+There is 318 patterns respecting support constraint in time number 0.
+There is 276 patterns respecting support constraint in time number 1.
+There is 314 patterns respecting support constraint in time number 2.
+There is 452 patterns respecting support constraint in time number 3.
+There is 432 patterns respecting support constraint in time number 4.
+There is 144 patterns respecting support constraint in time number 5.
+There is 205 patterns respecting support constraint in time number 6.
+There is 468 patterns respecting support constraint in time number 7.
+There is 721 patterns respecting support constraint in time number 8.
+There is 501 patterns respecting support constraint in time number 9.
+Total : 3831 patterns respecting support constraint.
+Mean supp 5.53041
+3.38392% of extensions found (2970 elements)
+11.0828% of extensions found (103356 elements)
+11.5599% of extensions found (5400432 elements)
+OOME
+
+
+DBLP 6 att 10 SUPP
+Execution time size 1 pattern: 22s
+There is 10 patterns respecting support constraint in time number 0.
+There is 15 patterns respecting support constraint in time number 1.
+There is 18 patterns respecting support constraint in time number 2.
+There is 40 patterns respecting support constraint in time number 3.
+There is 82 patterns respecting support constraint in time number 4.
+There is 587 patterns respecting support constraint in time number 5.
+There is 468 patterns respecting support constraint in time number 6.
+Total : 1220 patterns respecting support constraint.
+Mean supp 21.9336
+21.3333% of extensions found (32 elements)
+18.5764% of extensions found (107 elements)
+13.1075% of extensions found (561 elements)
+9.18004% of extensions found (4223 elements)
+3.73028% of extensions found (92470 elements)
+4.01303% of extensions found (1736679 elements)
+21.8519% of extensions found (59 elements)
+14.0678% of extensions found (332 elements)
+11.7176% of extensions found (3190 elements)
+4.95762% of extensions found (92833 elements)
+4.6975% of extensions found (2040867 elements)
+15.5556% of extensions found (112 elements)
+9.30967% of extensions found (855 elements)
+3.07301% of extensions found (15423 elements)
+3.84834% of extensions found (277772 elements)
+8.5061% of extensions found (279 elements)
+3.39189% of extensions found (5555 elements)
+4.13988% of extensions found (107626 elements)
+1.93003% of extensions found (929 elements)
+2.56318% of extensions found (11144 elements)
+47.2586% of extensions found (129827 elements)
+Execution time extension : 2346s
+Execution time : 2369s
+
+DBLP 6 att 11 SUPP
+Execution time size 1 pattern: 19s
+There is 10 patterns respecting support constraint in time number 0.
+There is 13 patterns respecting support constraint in time number 1.
+There is 17 patterns respecting support constraint in time number 2.
+There is 33 patterns respecting support constraint in time number 3.
+There is 68 patterns respecting support constraint in time number 4.
+There is 544 patterns respecting support constraint in time number 5.
+There is 444 patterns respecting support constraint in time number 6.
+Total : 1129 patterns respecting support constraint.
+Mean supp 22.8911
+20.7692% of extensions found (27 elements)
+16.9935% of extensions found (78 elements)
+12.6651% of extensions found (326 elements)
+9.26561% of extensions found (2054 elements)
+4.40049% of extensions found (49170 elements)
+4.50729% of extensions found (984008 elements)
+24.8869% of extensions found (55 elements)
+10.7989% of extensions found (196 elements)
+11.4946% of extensions found (1532 elements)
+6.48398% of extensions found (54038 elements)
+5.29224% of extensions found (1269760 elements)
+16.0428% of extensions found (90 elements)
+10.8333% of extensions found (663 elements)
+2.66003% of extensions found (9594 elements)
+3.77192% of extensions found (160674 elements)
+10.5169% of extensions found (236 elements)
+3.74501% of extensions found (4808 elements)
+4.55182% of extensions found (97170 elements)
+1.80309% of extensions found (667 elements)
+2.52239% of extensions found (7470 elements)
+49.9607% of extensions found (120673 elements)
+Execution time extension : 1409s
+Execution time : 1429s
+
+DBLP 6 att 12 SUPP
+Execution time size 1 pattern: 20s
+There is 9 patterns respecting support constraint in time number 0.
+There is 12 patterns respecting support constraint in time number 1.
+There is 14 patterns respecting support constraint in time number 2.
+There is 29 patterns respecting support constraint in time number 3.
+There is 49 patterns respecting support constraint in time number 4.
+There is 500 patterns respecting support constraint in time number 5.
+There is 342 patterns respecting support constraint in time number 6.
+Total : 955 patterns respecting support constraint.
+Mean supp 25.0105
+21.2963% of extensions found (23 elements)
+20.4969% of extensions found (66 elements)
+12.4869% of extensions found (239 elements)
+10.742% of extensions found (1258 elements)
+3.98474% of extensions found (25064 elements)
+5.39767% of extensions found (462682 elements)
+23.8095% of extensions found (40 elements)
+11.4655% of extensions found (133 elements)
+15.3445% of extensions found (1000 elements)
+6.733% of extensions found (33665 elements)
+6.57945% of extensions found (757521 elements)
+18.4729% of extensions found (75 elements)
+13.1429% of extensions found (483 elements)
+2.24513% of extensions found (5422 elements)
+3.96743% of extensions found (73569 elements)
+14.7783% of extensions found (210 elements)
+3.19714% of extensions found (3357 elements)
+5.4999% of extensions found (63144 elements)
+1.75102% of extensions found (429 elements)
+3.04121% of extensions found (4462 elements)
+49.0953% of extensions found (83953 elements)
+Execution time extension : 785s
+Execution time : 806s
+
+DBLP 6 att 13 SUPP
+Execution time size 1 pattern: 19s
+There is 8 patterns respecting support constraint in time number 0.
+There is 11 patterns respecting support constraint in time number 1.
+There is 13 patterns respecting support constraint in time number 2.
+There is 25 patterns respecting support constraint in time number 3.
+There is 43 patterns respecting support constraint in time number 4.
+There is 447 patterns respecting support constraint in time number 5.
+There is 304 patterns respecting support constraint in time number 6.
+Total : 851 patterns respecting support constraint.
+Mean supp 26.5206
+21.5909% of extensions found (19 elements)
+21.0526% of extensions found (52 elements)
+15.0769% of extensions found (196 elements)
+10.8329% of extensions found (913 elements)
+4.56322% of extensions found (18623 elements)
+5.99805% of extensions found (339573 elements)
+26.5734% of extensions found (38 elements)
+11.2632% of extensions found (107 elements)
+13.8883% of extensions found (639 elements)
+7.99312% of extensions found (22831 elements)
+7.32963% of extensions found (508722 elements)
+19.6923% of extensions found (64 elements)
+13.1904% of extensions found (363 elements)
+2.56254% of extensions found (4158 elements)
+4.23288% of extensions found (53505 elements)
+11.4419% of extensions found (123 elements)
+4.87077% of extensions found (2678 elements)
+6.62845% of extensions found (53963 elements)
+1.95099% of extensions found (375 elements)
+3.58947% of extensions found (4092 elements)
+52.5756% of extensions found (71444 elements)
+Execution time extension : 562s
+Execution time : 581s
+
+DBLP 6 att 14 SUPP
+Execution time size 1 pattern: 18s
+There is 7 patterns respecting support constraint in time number 0.
+There is 9 patterns respecting support constraint in time number 1.
+There is 13 patterns respecting support constraint in time number 2.
+There is 22 patterns respecting support constraint in time number 3.
+There is 40 patterns respecting support constraint in time number 4.
+There is 391 patterns respecting support constraint in time number 5.
+There is 292 patterns respecting support constraint in time number 6.
+Total : 774 patterns respecting support constraint.
+Mean supp 27.8579
+25.3968% of extensions found (16 elements)
+20.1923% of extensions found (42 elements)
+15.6926% of extensions found (145 elements)
+11.3621% of extensions found (659 elements)
+5.83772% of extensions found (15042 elements)
+6.21301% of extensions found (272892 elements)
+29.0598% of extensions found (34 elements)
+12.2995% of extensions found (92 elements)
+14.9457% of extensions found (550 elements)
+9.23506% of extensions found (19860 elements)
+7.12063% of extensions found (412934 elements)
+19.2308% of extensions found (55 elements)
+12.1364% of extensions found (267 elements)
+2.36309% of extensions found (2467 elements)
+3.71673% of extensions found (26774 elements)
+11.5909% of extensions found (102 elements)
+5.06243% of extensions found (2019 elements)
+6.06668% of extensions found (35766 elements)
+2.11637% of extensions found (331 elements)
+3.40603% of extensions found (3292 elements)
+53.0034% of extensions found (60515 elements)
+Execution time extension : 458s
+Execution time : 476s
+
+DBLP 6 att 8 SUPP
+Execution time size 1 pattern: 21s
+There is 12 patterns respecting support constraint in time number 0.
+There is 20 patterns respecting support constraint in time number 1.
+There is 23 patterns respecting support constraint in time number 2.
+There is 54 patterns respecting support constraint in time number 3.
+There is 132 patterns respecting support constraint in time number 4.
+There is 713 patterns respecting support constraint in time number 5.
+There is 540 patterns respecting support constraint in time number 6.
+Total : 1494 patterns respecting support constraint.
+Mean supp 19.4505
+19.5833% of extensions found (47 elements)
+17.8538% of extensions found (193 elements)
+12.205% of extensions found (1272 elements)
+8.42982% of extensions found (14154 elements)
+5.22196% of extensions found (526990 elements)
+4.24215% of extensions found (12072095 elements)
+22.6087% of extensions found (104 elements)
+11.2358% of extensions found (631 elements)
+8.92283% of extensions found (7432 elements)
+5.44611% of extensions found (288590 elements)
+4.41881% of extensions found (6886216 elements)
+14.3317% of extensions found (178 elements)
+7.59278% of extensions found (1784 elements)
+4.44735% of extensions found (56570 elements)
+4.24176% of extensions found (1295763 elements)
+6.57969% of extensions found (469 elements)
+3.06791% of extensions found (10259 elements)
+3.9449% of extensions found (218542 elements)
+3.03137% of extensions found (2853 elements)
+10.4511% of extensions found (161011 elements)
+40.9849% of extensions found (157800 elements)
+Execution time extension : 8784s
+Execution time : 8805s
+
+DBLP 6 att 7 SUPP
+Execution time size 1 pattern: 19s
+There is 13 patterns respecting support constraint in time number 0.
+There is 21 patterns respecting support constraint in time number 1.
+There is 30 patterns respecting support constraint in time number 2.
+There is 87 patterns respecting support constraint in time number 3.
+There is 171 patterns respecting support constraint in time number 4.
+There is 961 patterns respecting support constraint in time number 5.
+There is 589 patterns respecting support constraint in time number 6.
+Total : 1872 patterns respecting support constraint.
+Mean supp 16.9386
+20.1465% of extensions found (55 elements)
+14.9091% of extensions found (246 elements)
+9.0599% of extensions found (1939 elements)
+7.78119% of extensions found (25800 elements)
+4.52254% of extensions found (1121309 elements)
+4.4194% of extensions found (29187980 elements)
+OOME
+
+COVIDCHINA 3 att 20 SUPP
+Execution time size 1 pattern: 3s
+There is 27 patterns respecting support constraint in time number 0.
+There is 25 patterns respecting support constraint in time number 1.
+There is 27 patterns respecting support constraint in time number 2.
+There is 29 patterns respecting support constraint in time number 3.
+There is 32 patterns respecting support constraint in time number 4.
+There is 26 patterns respecting support constraint in time number 5.
+There is 23 patterns respecting support constraint in time number 6.
+There is 25 patterns respecting support constraint in time number 7.
+There is 22 patterns respecting support constraint in time number 8.
+There is 23 patterns respecting support constraint in time number 9.
+Total : 259 patterns respecting support constraint.
+Mean supp 29.5135
+61.3333% of extensions found (414 elements)
+33.5928% of extensions found (3755 elements)
+16.1017% of extensions found (17534 elements)
+12.508% of extensions found (70181 elements)
+13.6091% of extensions found (248326 elements)
+15.485% of extensions found (884426 elements)
+17.2956% of extensions found (3824174 elements)
+OOME
+
+COVIDCHINA 3 att 25 SUPP
+Execution time size 1 pattern: 3s
+There is 24 patterns respecting support constraint in time number 0.
+There is 23 patterns respecting support constraint in time number 1.
+There is 26 patterns respecting support constraint in time number 2.
+There is 25 patterns respecting support constraint in time number 3.
+There is 21 patterns respecting support constraint in time number 4.
+There is 21 patterns respecting support constraint in time number 5.
+There is 17 patterns respecting support constraint in time number 6.
+There is 13 patterns respecting support constraint in time number 7.
+There is 9 patterns respecting support constraint in time number 8.
+There is 8 patterns respecting support constraint in time number 9.
+Total : 187 patterns respecting support constraint.
+Mean supp 32.4652
+40.942% of extensions found (226 elements)
+18.1076% of extensions found (1064 elements)
+10.1353% of extensions found (2696 elements)
+8.61064% of extensions found (4875 elements)
+10.9773% of extensions found (11238 elements)
+14.3997% of extensions found (27510 elements)
+20.0542% of extensions found (71720 elements)
+25.1027% of extensions found (162033 elements)
+15.2427% of extensions found (197586 elements)
+41.1371% of extensions found (246 elements)
+17.4309% of extensions found (1072 elements)
+9.8925% of extensions found (2227 elements)
+12.7504% of extensions found (5963 elements)
+15.1059% of extensions found (15313 elements)
+13.5606% of extensions found (26995 elements)
+18.8088% of extensions found (45697 elements)
+11.027% of extensions found (40312 elements)
+31.0769% of extensions found (202 elements)
+16.4545% of extensions found (698 elements)
+14.2243% of extensions found (2085 elements)
+12.9412% of extensions found (4587 elements)
+11.6936% of extensions found (6973 elements)
+17.5231% of extensions found (10997 elements)
+7.26334% of extensions found (6390 elements)
+19.619% of extensions found (103 elements)
+8.55294% of extensions found (185 elements)
+4.45151% of extensions found (140 elements)
+4.89011% of extensions found (89 elements)
+8.11486% of extensions found (65 elements)
+4.61538% of extensions found (24 elements)
+27.4376% of extensions found (121 elements)
+11.6189% of extensions found (239 elements)
+9.55906% of extensions found (297 elements)
+26.0382% of extensions found (696 elements)
+10.6142% of extensions found (591 elements)
+10.6443% of extensions found (38 elements)
+3.64372% of extensions found (18 elements)
+7.40741% of extensions found (12 elements)
+1.04167% of extensions found (1 elements)
+12.2172% of extensions found (27 elements)
+8.23045% of extensions found (20 elements)
+0% of extensions found (0 elements)
+23.9316% of extensions found (28 elements)
+0% of extensions found (0 elements)
+2.77778% of extensions found (2 elements)
+Execution time extension : 202s
+Execution time : 205s
+
+COVIDCHINA 3 att 30 SUPP
+Execution time size 1 pattern: 3s
+There is 19 patterns respecting support constraint in time number 0.
+There is 16 patterns respecting support constraint in time number 1.
+There is 17 patterns respecting support constraint in time number 2.
+There is 19 patterns respecting support constraint in time number 3.
+There is 16 patterns respecting support constraint in time number 4.
+There is 9 patterns respecting support constraint in time number 5.
+There is 7 patterns respecting support constraint in time number 6.
+There is 9 patterns respecting support constraint in time number 7.
+There is 6 patterns respecting support constraint in time number 8.
+There is 2 patterns respecting support constraint in time number 9.
+Total : 120 patterns respecting support constraint.
+Mean supp 35.35
+23.6842% of extensions found (72 elements)
+14.7876% of extensions found (181 elements)
+7.44402% of extensions found (256 elements)
+6.39648% of extensions found (262 elements)
+10.8567% of extensions found (256 elements)
+16.4621% of extensions found (295 elements)
+14.9153% of extensions found (396 elements)
+22.096% of extensions found (525 elements)
+10.7619% of extensions found (113 elements)
+30.1471% of extensions found (82 elements)
+11.2965% of extensions found (176 elements)
+7.1733% of extensions found (202 elements)
+11.8812% of extensions found (216 elements)
+11.7063% of extensions found (177 elements)
+7.40741% of extensions found (118 elements)
+15.3955% of extensions found (109 elements)
+8.7156% of extensions found (19 elements)
+19.5046% of extensions found (63 elements)
+13.1944% of extensions found (133 elements)
+20.3008% of extensions found (243 elements)
+13.933% of extensions found (237 elements)
+7.97% of extensions found (170 elements)
+21.7647% of extensions found (222 elements)
+7.20721% of extensions found (32 elements)
+7.56579% of extensions found (23 elements)
+9.17874% of extensions found (19 elements)
+3.7594% of extensions found (5 elements)
+4.44444% of extensions found (2 elements)
+8.33333% of extensions found (1 elements)
+50% of extensions found (1 elements)
+18.0556% of extensions found (26 elements)
+4.3956% of extensions found (8 elements)
+1.38889% of extensions found (1 elements)
+0% of extensions found (0 elements)
+1.5873% of extensions found (1 elements)
+0% of extensions found (0 elements)
+7.93651% of extensions found (5 elements)
+0% of extensions found (0 elements)
+9.25926% of extensions found (5 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 2s
+Execution time : 5s
+
+COVIDCHINA 3 att 32 SUPP
+Execution time size 1 pattern: 3s
+There is 17 patterns respecting support constraint in time number 0.
+There is 14 patterns respecting support constraint in time number 1.
+There is 15 patterns respecting support constraint in time number 2.
+There is 13 patterns respecting support constraint in time number 3.
+There is 11 patterns respecting support constraint in time number 4.
+There is 3 patterns respecting support constraint in time number 5.
+There is 6 patterns respecting support constraint in time number 6.
+There is 3 patterns respecting support constraint in time number 7.
+There is 3 patterns respecting support constraint in time number 8.
+There is 0 patterns respecting support constraint in time number 9.
+Total : 85 patterns respecting support constraint.
+Mean supp 37.3294
+17.2269% of extensions found (41 elements)
+13.6585% of extensions found (84 elements)
+5.58608% of extensions found (61 elements)
+5.66319% of extensions found (38 elements)
+24.5614% of extensions found (28 elements)
+12.5% of extensions found (21 elements)
+6.34921% of extensions found (4 elements)
+25% of extensions found (3 elements)
+-nan% of extensions found (0 elements)
+25.2381% of extensions found (53 elements)
+9.14369% of extensions found (63 elements)
+5.05051% of extensions found (35 elements)
+11.4286% of extensions found (12 elements)
+4.16667% of extensions found (3 elements)
+0% of extensions found (0 elements)
+13.8462% of extensions found (27 elements)
+19.8653% of extensions found (59 elements)
+33.8983% of extensions found (60 elements)
+9.44444% of extensions found (34 elements)
+1.96078% of extensions found (2 elements)
+0% of extensions found (0 elements)
+5.59441% of extensions found (8 elements)
+20.8333% of extensions found (5 elements)
+0% of extensions found (0 elements)
+18.1818% of extensions found (6 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+11.1111% of extensions found (2 elements)
+0% of extensions found (0 elements)
+11.1111% of extensions found (1 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+Execution time extension : 0s
+Execution time : 3s
+
+COVIDCHINA 3 att 31 SUPP
+Execution time size 1 pattern: 3s
+There is 18 patterns respecting support constraint in time number 0.
+There is 16 patterns respecting support constraint in time number 1.
+There is 16 patterns respecting support constraint in time number 2.
+There is 18 patterns respecting support constraint in time number 3.
+There is 14 patterns respecting support constraint in time number 4.
+There is 6 patterns respecting support constraint in time number 5.
+There is 7 patterns respecting support constraint in time number 6.
+There is 4 patterns respecting support constraint in time number 7.
+There is 4 patterns respecting support constraint in time number 8.
+There is 1 patterns respecting support constraint in time number 9.
+Total : 104 patterns respecting support constraint.
+Mean supp 36.1731
+19.0972% of extensions found (55 elements)
+13.1818% of extensions found (116 elements)
+5.60345% of extensions found (117 elements)
+6.71551% of extensions found (110 elements)
+11.8182% of extensions found (78 elements)
+19.4139% of extensions found (106 elements)
+12.0283% of extensions found (51 elements)
+25% of extensions found (51 elements)
+11.7647% of extensions found (6 elements)
+23.8281% of extensions found (61 elements)
+10.4736% of extensions found (115 elements)
+6.21118% of extensions found (100 elements)
+5.33333% of extensions found (32 elements)
+8.92857% of extensions found (20 elements)
+5% of extensions found (4 elements)
+0% of extensions found (0 elements)
+16.3194% of extensions found (47 elements)
+15.9574% of extensions found (105 elements)
+19.6825% of extensions found (124 elements)
+12.0968% of extensions found (105 elements)
+3.80952% of extensions found (16 elements)
+17.1875% of extensions found (11 elements)
+0% of extensions found (0 elements)
+3.96825% of extensions found (10 elements)
+18.3333% of extensions found (11 elements)
+2.5974% of extensions found (2 elements)
+0% of extensions found (0 elements)
+11.9048% of extensions found (10 elements)
+1.42857% of extensions found (1 elements)
+0% of extensions found (0 elements)
+2.38095% of extensions found (1 elements)
+0% of extensions found (0 elements)
+7.14286% of extensions found (2 elements)
+0% of extensions found (0 elements)
+25% of extensions found (4 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 0s
+Execution time : 4s
+
+COVIDCHINA 3 att 29 SUPP
+Execution time size 1 pattern: 3s
+There is 19 patterns respecting support constraint in time number 0.
+There is 16 patterns respecting support constraint in time number 1.
+There is 21 patterns respecting support constraint in time number 2.
+There is 22 patterns respecting support constraint in time number 3.
+There is 17 patterns respecting support constraint in time number 4.
+There is 12 patterns respecting support constraint in time number 5.
+There is 11 patterns respecting support constraint in time number 6.
+There is 10 patterns respecting support constraint in time number 7.
+There is 8 patterns respecting support constraint in time number 8.
+There is 3 patterns respecting support constraint in time number 9.
+Total : 139 patterns respecting support constraint.
+Mean supp 34.482
+28.6184% of extensions found (87 elements)
+13.9026% of extensions found (254 elements)
+8.55404% of extensions found (478 elements)
+6.21462% of extensions found (505 elements)
+10.165% of extensions found (616 elements)
+14.5071% of extensions found (983 elements)
+16.2869% of extensions found (1601 elements)
+19.8704% of extensions found (2545 elements)
+7.0334% of extensions found (537 elements)
+36.9048% of extensions found (124 elements)
+11.4003% of extensions found (311 elements)
+7.2631% of extensions found (384 elements)
+10.5469% of extensions found (486 elements)
+14.3472% of extensions found (767 elements)
+9.47849% of extensions found (727 elements)
+15.0963% of extensions found (878 elements)
+7.02354% of extensions found (185 elements)
+19.697% of extensions found (91 elements)
+12.605% of extensions found (195 elements)
+16.2821% of extensions found (381 elements)
+13.1472% of extensions found (551 elements)
+7.76769% of extensions found (428 elements)
+15.9755% of extensions found (547 elements)
+6.27666% of extensions found (103 elements)
+8.02139% of extensions found (30 elements)
+8.05556% of extensions found (29 elements)
+2.50784% of extensions found (8 elements)
+2.5% of extensions found (2 elements)
+6.25% of extensions found (1 elements)
+33.3333% of extensions found (1 elements)
+19.6078% of extensions found (40 elements)
+4.31818% of extensions found (19 elements)
+5.78947% of extensions found (11 elements)
+23.8636% of extensions found (21 elements)
+0% of extensions found (0 elements)
+5.30303% of extensions found (7 elements)
+0% of extensions found (0 elements)
+4.54545% of extensions found (5 elements)
+2.5% of extensions found (1 elements)
+0% of extensions found (0 elements)
+10% of extensions found (8 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 6s
+Execution time : 9s
+
+COVIDCHINA 3 att 28 SUPP
+Execution time size 1 pattern: 3s
+There is 21 patterns respecting support constraint in time number 0.
+There is 19 patterns respecting support constraint in time number 1.
+There is 23 patterns respecting support constraint in time number 2.
+There is 24 patterns respecting support constraint in time number 3.
+There is 19 patterns respecting support constraint in time number 4.
+There is 13 patterns respecting support constraint in time number 5.
+There is 11 patterns respecting support constraint in time number 6.
+There is 10 patterns respecting support constraint in time number 7.
+There is 8 patterns respecting support constraint in time number 8.
+There is 4 patterns respecting support constraint in time number 9.
+Total : 152 patterns respecting support constraint.
+Mean supp 33.9276
+29.3233% of extensions found (117 elements)
+14.5299% of extensions found (391 elements)
+8.80222% of extensions found (826 elements)
+6.52479% of extensions found (1024 elements)
+10.9375% of extensions found (1456 elements)
+16.4648% of extensions found (2637 elements)
+18.7372% of extensions found (4941 elements)
+22.8522% of extensions found (9033 elements)
+8.2503% of extensions found (2981 elements)
+34.5538% of extensions found (151 elements)
+12.3344% of extensions found (447 elements)
+7.72401% of extensions found (656 elements)
+11.6909% of extensions found (997 elements)
+15.6378% of extensions found (1715 elements)
+10.1108% of extensions found (1734 elements)
+15.0952% of extensions found (2094 elements)
+5.43219% of extensions found (455 elements)
+19.5652% of extensions found (108 elements)
+13.9376% of extensions found (286 elements)
+15.9225% of extensions found (592 elements)
+13.9281% of extensions found (907 elements)
+8.45645% of extensions found (767 elements)
+16.6069% of extensions found (1019 elements)
+5.42198% of extensions found (221 elements)
+9.64912% of extensions found (44 elements)
+7.86713% of extensions found (45 elements)
+3.83838% of extensions found (19 elements)
+4.21053% of extensions found (8 elements)
+9.375% of extensions found (6 elements)
+12.5% of extensions found (3 elements)
+19.8381% of extensions found (49 elements)
+6.30798% of extensions found (34 elements)
+6.76471% of extensions found (23 elements)
+21.7391% of extensions found (40 elements)
+3.125% of extensions found (5 elements)
+6.99301% of extensions found (10 elements)
+0% of extensions found (0 elements)
+10% of extensions found (11 elements)
+4.54545% of extensions found (4 elements)
+0% of extensions found (0 elements)
+11.25% of extensions found (9 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 13s
+Execution time : 17s
+
+COVIDCHINA 3 att 27 SUPP
+Execution time size 1 pattern: 3s
+There is 23 patterns respecting support constraint in time number 0.
+There is 19 patterns respecting support constraint in time number 1.
+There is 25 patterns respecting support constraint in time number 2.
+There is 25 patterns respecting support constraint in time number 3.
+There is 20 patterns respecting support constraint in time number 4.
+There is 17 patterns respecting support constraint in time number 5.
+There is 13 patterns respecting support constraint in time number 6.
+There is 11 patterns respecting support constraint in time number 7.
+There is 8 patterns respecting support constraint in time number 8.
+There is 4 patterns respecting support constraint in time number 9.
+Total : 165 patterns respecting support constraint.
+Mean supp 33.3818
+33.8673% of extensions found (148 elements)
+15.027% of extensions found (556 elements)
+9.23022% of extensions found (1283 elements)
+7.01481% of extensions found (1800 elements)
+10.8922% of extensions found (3333 elements)
+15.9062% of extensions found (6892 elements)
+17.827% of extensions found (13515 elements)
+24.9806% of extensions found (27009 elements)
+9.67178% of extensions found (10449 elements)
+37.2632% of extensions found (177 elements)
+13.9661% of extensions found (618 elements)
+7.88026% of extensions found (974 elements)
+12.9726% of extensions found (2148 elements)
+15.6998% of extensions found (4384 elements)
+10.924% of extensions found (5268 elements)
+17.9788% of extensions found (7577 elements)
+5.86314% of extensions found (1777 elements)
+21.92% of extensions found (137 elements)
+13.7956% of extensions found (378 elements)
+14.8304% of extensions found (953 elements)
+12.9066% of extensions found (1599 elements)
+8.77253% of extensions found (1543 elements)
+18.3895% of extensions found (2270 elements)
+6.45374% of extensions found (586 elements)
+11.4% of extensions found (57 elements)
+7.01754% of extensions found (68 elements)
+3.50679% of extensions found (31 elements)
+3.81232% of extensions found (13 elements)
+11.5385% of extensions found (12 elements)
+10.4167% of extensions found (5 elements)
+24.4118% of extensions found (83 elements)
+7.41427% of extensions found (80 elements)
+7.27273% of extensions found (64 elements)
+22.6562% of extensions found (116 elements)
+6.68103% of extensions found (31 elements)
+6.33484% of extensions found (14 elements)
+1.94805% of extensions found (3 elements)
+4.16667% of extensions found (1 elements)
+0% of extensions found (0 elements)
+9.09091% of extensions found (13 elements)
+5.76923% of extensions found (6 elements)
+0% of extensions found (0 elements)
+14.7727% of extensions found (13 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+Execution time extension : 34s
+Execution time : 38s
+
+COVIDCHINA 3 att 26 SUPP
+Execution time size 1 pattern: 3s
+There is 23 patterns respecting support constraint in time number 0.
+There is 23 patterns respecting support constraint in time number 1.
+There is 26 patterns respecting support constraint in time number 2.
+There is 25 patterns respecting support constraint in time number 3.
+There is 21 patterns respecting support constraint in time number 4.
+There is 19 patterns respecting support constraint in time number 5.
+There is 15 patterns respecting support constraint in time number 6.
+There is 12 patterns respecting support constraint in time number 7.
+There is 8 patterns respecting support constraint in time number 8.
+There is 6 patterns respecting support constraint in time number 9.
+Total : 178 patterns respecting support constraint.
+Mean supp 32.8427
+35.7278% of extensions found (189 elements)
+16.2393% of extensions found (798 elements)
+9.40351% of extensions found (1876 elements)
+7.63275% of extensions found (3007 elements)
+10.9971% of extensions found (6283 elements)
+14.9822% of extensions found (14120 elements)
+19.0315% of extensions found (32247 elements)
+25.633% of extensions found (66127 elements)
+11.061% of extensions found (43886 elements)
+35.6187% of extensions found (213 elements)
+15.3991% of extensions found (820 elements)
+8.69919% of extensions found (1498 elements)
+12.6941% of extensions found (3613 elements)
+15.6048% of extensions found (8457 elements)
+12.3753% of extensions found (12559 elements)
+18.9297% of extensions found (19019 elements)
+7.47235% of extensions found (8527 elements)
+25.5385% of extensions found (166 elements)
+14.6586% of extensions found (511 elements)
+14.5844% of extensions found (1416 elements)
+12.7119% of extensions found (2700 elements)
+10.8148% of extensions found (3504 elements)
+19.3065% of extensions found (5412 elements)
+6.02981% of extensions found (1958 elements)
+15.2381% of extensions found (80 elements)
+8.02632% of extensions found (122 elements)
+3.6612% of extensions found (67 elements)
+4.72637% of extensions found (38 elements)
+9.21053% of extensions found (28 elements)
+5.35714% of extensions found (9 elements)
+25.8145% of extensions found (103 elements)
+9.06149% of extensions found (140 elements)
+9.82143% of extensions found (165 elements)
+29.3182% of extensions found (387 elements)
+8.3118% of extensions found (193 elements)
+8.77193% of extensions found (25 elements)
+3.33333% of extensions found (10 elements)
+2.5% of extensions found (2 elements)
+0% of extensions found (0 elements)
+8.88889% of extensions found (16 elements)
+7.8125% of extensions found (10 elements)
+0% of extensions found (0 elements)
+18.75% of extensions found (18 elements)
+0% of extensions found (0 elements)
+4.16667% of extensions found (2 elements)
+Execution time extension : 84s
+Execution time : 88s
+
+COVIDCHINA 3 att 24 SUPP
+Execution time size 1 pattern: 3s
+There is 26 patterns respecting support constraint in time number 0.
+There is 24 patterns respecting support constraint in time number 1.
+There is 26 patterns respecting support constraint in time number 2.
+There is 25 patterns respecting support constraint in time number 3.
+There is 22 patterns respecting support constraint in time number 4.
+There is 23 patterns respecting support constraint in time number 5.
+There is 19 patterns respecting support constraint in time number 6.
+There is 14 patterns respecting support constraint in time number 7.
+There is 11 patterns respecting support constraint in time number 8.
+There is 9 patterns respecting support constraint in time number 9.
+Total : 199 patterns respecting support constraint.
+Mean supp 31.9548
+39.9038% of extensions found (249 elements)
+21.177% of extensions found (1371 elements)
+11.3931% of extensions found (3905 elements)
+9.23641% of extensions found (7935 elements)
+11.1268% of extensions found (20307 elements)
+13.8327% of extensions found (53371 elements)
+19.3404% of extensions found (144510 elements)
+22.1651% of extensions found (352338 elements)
+14.8312% of extensions found (470304 elements)
+44.7115% of extensions found (279 elements)
+19.8566% of extensions found (1385 elements)
+10.7351% of extensions found (3271 elements)
+12.9611% of extensions found (9751 elements)
+14.8222% of extensions found (27461 elements)
+13.9554% of extensions found (53652 elements)
+17.4198% of extensions found (102807 elements)
+12.2547% of extensions found (113388 elements)
+36.1538% of extensions found (235 elements)
+17.795% of extensions found (920 elements)
+14.414% of extensions found (3050 elements)
+12.6454% of extensions found (7328 elements)
+12.1881% of extensions found (12504 elements)
+15.5739% of extensions found (21421 elements)
+8.3205% of extensions found (16041 elements)
+23.6364% of extensions found (130 elements)
+9.39799% of extensions found (281 elements)
+4.83237% of extensions found (258 elements)
+5.45404% of extensions found (197 elements)
+9.9677% of extensions found (216 elements)
+8.48765% of extensions found (165 elements)
+29.4466% of extensions found (149 elements)
+12.0452% of extensions found (341 elements)
+10.5781% of extensions found (505 elements)
+19.91% of extensions found (1106 elements)
+12.397% of extensions found (1234 elements)
+14.1876% of extensions found (62 elements)
+3.68664% of extensions found (32 elements)
+6.81818% of extensions found (24 elements)
+2.31481% of extensions found (5 elements)
+15.4135% of extensions found (41 elements)
+7.98226% of extensions found (36 elements)
+0.617284% of extensions found (2 elements)
+20.7792% of extensions found (32 elements)
+0.347222% of extensions found (1 elements)
+5.05051% of extensions found (5 elements)
+Execution time extension : 489s
+Execution time : 492s
+
+COVIDCHINA 3 att 23 SUPP
+Execution time size 1 pattern: 3s
+There is 26 patterns respecting support constraint in time number 0.
+There is 24 patterns respecting support constraint in time number 1.
+There is 26 patterns respecting support constraint in time number 2.
+There is 25 patterns respecting support constraint in time number 3.
+There is 23 patterns respecting support constraint in time number 4.
+There is 23 patterns respecting support constraint in time number 5.
+There is 21 patterns respecting support constraint in time number 6.
+There is 17 patterns respecting support constraint in time number 7.
+There is 15 patterns respecting support constraint in time number 8.
+There is 10 patterns respecting support constraint in time number 9.
+Total : 210 patterns respecting support constraint.
+Mean supp 31.4857
+45.8333% of extensions found (286 elements)
+24.4621% of extensions found (1819 elements)
+12.4156% of extensions found (5646 elements)
+10.406% of extensions found (13513 elements)
+11.6101% of extensions found (36084 elements)
+13.574% of extensions found (102859 elements)
+18.6586% of extensions found (326264 elements)
+19.7438% of extensions found (966253 elements)
+15.6475% of extensions found (1511941 elements)
+51.6026% of extensions found (322 elements)
+21.8509% of extensions found (1759 elements)
+11.951% of extensions found (4835 elements)
+13.7764% of extensions found (15320 elements)
+15.0777% of extensions found (48508 elements)
+14.7487% of extensions found (121623 elements)
+15.9273% of extensions found (290569 elements)
+13.2018% of extensions found (383604 elements)
+41.3846% of extensions found (269 elements)
+19.5571% of extensions found (1210 elements)
+15.7672% of extensions found (4388 elements)
+13.0052% of extensions found (11984 elements)
+12.4126% of extensions found (25288 elements)
+13.8835% of extensions found (52663 elements)
+9.86385% of extensions found (51946 elements)
+28.1739% of extensions found (162 elements)
+10.7891% of extensions found (402 elements)
+5.55556% of extensions found (469 elements)
+5.75693% of extensions found (459 elements)
+8.33696% of extensions found (574 elements)
+7.73519% of extensions found (444 elements)
+34.2155% of extensions found (181 elements)
+12.5756% of extensions found (478 elements)
+10.8048% of extensions found (878 elements)
+15.8542% of extensions found (2088 elements)
+11.9349% of extensions found (2492 elements)
+19.2547% of extensions found (93 elements)
+4.74383% of extensions found (75 elements)
+5.06667% of extensions found (57 elements)
+2.80702% of extensions found (16 elements)
+17.9272% of extensions found (64 elements)
+6.5625% of extensions found (63 elements)
+1.5873% of extensions found (10 elements)
+14.902% of extensions found (38 elements)
+1.31579% of extensions found (5 elements)
+5.33333% of extensions found (8 elements)
+Execution time extension : 1130s
+Execution time : 1133s
+
+SYNTHETIC 6 att 8 SUPP
+Execution time size 1 pattern: 383s
+There is 0 patterns respecting support constraint in time number 0.
+There is 3 patterns respecting support constraint in time number 1.
+There is 36 patterns respecting support constraint in time number 2.
+There is 12 patterns respecting support constraint in time number 3.
+There is 48 patterns respecting support constraint in time number 4.
+There is 8 patterns respecting support constraint in time number 5.
+There is 0 patterns respecting support constraint in time number 6.
+There is 12 patterns respecting support constraint in time number 7.
+There is 96 patterns respecting support constraint in time number 8.
+There is 0 patterns respecting support constraint in time number 9.
+Total : 215 patterns respecting support constraint.
+Mean supp 9.18605
+-nan% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+100% of extensions found (384 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+0% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+Execution time extension : 0s
+Execution time : 384s
+
+SYNTHETIC 6 att 9 SUPP
+Execution time size 1 pattern: 387s
+There is 0 patterns respecting support constraint in time number 0.
+There is 3 patterns respecting support constraint in time number 1.
+There is 36 patterns respecting support constraint in time number 2.
+There is 12 patterns respecting support constraint in time number 3.
+There is 48 patterns respecting support constraint in time number 4.
+There is 0 patterns respecting support constraint in time number 5.
+There is 0 patterns respecting support constraint in time number 6.
+There is 0 patterns respecting support constraint in time number 7.
+There is 24 patterns respecting support constraint in time number 8.
+There is 0 patterns respecting support constraint in time number 9.
+Total : 123 patterns respecting support constraint.
+Mean supp 10.0732
+-nan% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+0% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+-nan% of extensions found (0 elements)
+Execution time extension : 0s
+Execution time : 387s
+
+DBLP 6 att 9 SUPP
+Execution time size 1 pattern: 19s
+There is 11 patterns respecting support constraint in time number 0.
+There is 17 patterns respecting support constraint in time number 1.
+There is 20 patterns respecting support constraint in time number 2.
+There is 45 patterns respecting support constraint in time number 3.
+There is 113 patterns respecting support constraint in time number 4.
+There is 620 patterns respecting support constraint in time number 5.
+There is 501 patterns respecting support constraint in time number 6.
+Total : 1327 patterns respecting support constraint.
+Mean supp 20.8915
+18.7166% of extensions found (35 elements)
+21.5714% of extensions found (151 elements)
+12.9213% of extensions found (878 elements)
+8.73062% of extensions found (8662 elements)
+5.88507% of extensions found (316054 elements)
+4.56718% of extensions found (7231809 elements)
+24.4118% of extensions found (83 elements)
+11.8608% of extensions found (443 elements)
+9.62464% of extensions found (4818 elements)
+5.41253% of extensions found (161681 elements)
+4.6723% of extensions found (3784664 elements)
+15.2222% of extensions found (137 elements)
+8.16485% of extensions found (1264 elements)
+4.51779% of extensions found (35405 elements)
+4.31862% of extensions found (766033 elements)
+7.05998% of extensions found (359 elements)
+3.43876% of extensions found (7654 elements)
+4.09703% of extensions found (157107 elements)
+3.14445% of extensions found (2203 elements)
+11.0345% of extensions found (121788 elements)
+43.1856% of extensions found (134143 elements)
+Execution time extension : 5203s
+Execution time : 5222s
+
+DBLP 6 att 15 SUPP
+Execution time size 1 pattern: 18s
+There is 7 patterns respecting support constraint in time number 0.
+There is 9 patterns respecting support constraint in time number 1.
+There is 12 patterns respecting support constraint in time number 2.
+There is 21 patterns respecting support constraint in time number 3.
+There is 35 patterns respecting support constraint in time number 4.
+There is 381 patterns respecting support constraint in time number 5.
+There is 282 patterns respecting support constraint in time number 6.
+Total : 747 patterns respecting support constraint.
+Mean supp 28.3574
+22.2222% of extensions found (14 elements)
+22.0238% of extensions found (37 elements)
+14.9292% of extensions found (116 elements)
+12.0936% of extensions found (491 elements)
+5.54549% of extensions found (10374 elements)
+6.14907% of extensions found (179889 elements)
+25% of extensions found (27 elements)
+13.933% of extensions found (79 elements)
+14.8282% of extensions found (410 elements)
+8.1877% of extensions found (12790 elements)
+6.73706% of extensions found (242991 elements)
+20.2381% of extensions found (51 elements)
+12.9412% of extensions found (231 elements)
+1.88272% of extensions found (1657 elements)
+3.0098% of extensions found (14064 elements)
+11.1565% of extensions found (82 elements)
+4.15466% of extensions found (1298 elements)
+5.15113% of extensions found (18855 elements)
+2.12973% of extensions found (284 elements)
+3.38752% of extensions found (2713 elements)
+55.1144% of extensions found (59216 elements)
+Execution time extension : 334s
+Execution time : 353s
