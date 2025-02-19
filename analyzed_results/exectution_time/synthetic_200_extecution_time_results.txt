@@ -1,0 +1,38 @@
+SYNTHETIC vol 2 att 4 supp 10 mincom 1 nbtime 10
+
+Total : 9874 patterns respecting support constraint.
+Execution time : 8s
+
+Total : 0 patterns respecting support constraint.
+Execution time : 308s
+
+SYNTHETIC vol 3 att 2 supp 10 mincom 1 nbtime 10
+
+Total : 1591 patterns respecting support constraint.
+Execution time : 15s
+
+Total : 0 patterns respecting support constraint.
+Execution time : 242s
+
+SYNTHETIC vol 3 att 3 supp 10 mincom 1 nbtime 10
+
+Total : 35 patterns respecting support constraint.
+Execution time : 20s
+
+Total : 5 patterns respecting support constraint.
+Execution time : 2559s
+
+SYNTHETIC vol 4 att 2 supp 10 mincom 1 nbtime 10
+
+Total : 94 patterns respecting support constraint.
+Execution time : 115s
+
+Total : 0 patterns respecting support constraint.
+Execution time : 2185s
+
+SYNTHETIC vol 3 att 4 supp 10 mincom 1 nbtime 10
+
+Total : 34 patterns respecting support constraint.
+Execution time : 42s
+
+timeout

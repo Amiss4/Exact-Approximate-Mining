@@ -1,0 +1,38 @@
+CovidChina vol 2 att 2 supp 10 mincom 1 nbtime 10
+
+Total : 258 patterns respecting support constraint.
+Execution time : 2s
+
+Total : 72 patterns respecting support constraint.
+Execution time : 17s
+
+CovidChina vol 2 att 3 supp 10 mincom 1 nbtime 10
+
+Total : 924 patterns respecting support constraint.
+Execution time : 2s
+
+Total : 169 patterns respecting support constraint.
+Execution time : 44s
+
+CovidChina vol 3 att 3 supp 10 mincom 1 nbtime 10
+
+Total : 824 patterns respecting support constraint.
+Execution time : 7s
+
+Total : 411 patterns respecting support constraint.
+Execution time : 1219s
+
+CovidChina vol 4 att 2 supp 10 mincom 1 nbtime 10
+
+Total : 519 patterns respecting support constraint.
+Execution time : 32s
+
+Total : 100 patterns respecting support constraint.
+Execution time : 1161s
+
+CovidChina vol 4 att 3 supp 10 mincom 1 nbtime 10
+
+Total : 309 patterns respecting support constraint.
+Execution time : 37s
+
+timeout

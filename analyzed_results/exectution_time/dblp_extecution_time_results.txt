@@ -1,0 +1,38 @@
+DBLP vol 2 att 3 supp 10 mincom 1 nbtime 7
+
+Total : 264 patterns respecting support constraint.
+Execution time : 10s
+
+Total : 89 patterns respecting support constraint.
+Execution time : 337s
+
+DBLP vol 2 att 4 supp 10 mincom 1 nbtime 7
+
+Total : 480 patterns respecting support constraint.
+Execution time : 13s
+
+Total : 107 patterns respecting support constraint.
+Execution time : 1015s
+
+DBLP vol 3 att 3 supp 10 mincom 1 nbtime 7
+
+Total : 225 patterns respecting support constraint.
+Execution time : 8s
+
+Total : 73 patterns respecting support constraint.
+Execution time : 8863s
+
+DBLP vol 4 att 2 supp 10 mincom 1 nbtime 7
+
+Total : 59 patterns respecting support constraint.
+Execution time : 5s
+
+Total : 2 patterns respecting support constraint.
+Execution time : 8819s
+
+DBLP vol 4 att 3 supp 10 mincom 1 nbtime 7
+
+Total : 139 patterns respecting support constraint.
+Execution time : 7s
+
+timeout
