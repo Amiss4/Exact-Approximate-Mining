@@ -248,10 +248,10 @@ int main()
         // 19,
         // 20
         };
-    int nbTime = 10;
+    int nbTime = 7;
     int maxSize = (volume - mincoh) * selected_attribute.size() + mincoh;
     std::stringstream file_path;
-    std::string dataset = "../data/TrendGraphs/synthetic_500";
+    std::string dataset = "../data/TrendGraphs/DBLP";
     GraphReadingResults grr = getGraphData(dataset, volume, nbTime, selected_attribute);
 
     // one ATT settings
